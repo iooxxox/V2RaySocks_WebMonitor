@@ -1,0 +1,7 @@
+{
+	"servers" : [
+		{"name" : "测试1", "url" : "http://127.0.0.1:8888/status"},
+		{"name" : "测试2", "url" : "http://127.0.0.1:8888/status"},
+		{"name" : "测试3", "url" : "http://127.0.0.1:8888/status"}
+	]
+}
